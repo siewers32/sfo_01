@@ -24,11 +24,8 @@ def archive_files(archive, files):
         if extension in [".docx", ".pdf", ".txt"]:
             doelbestand = os.path.join(f"archief/documenten/", file_name)
             shutil.copy(file, doelbestand)
-        elif extension in [".jpg", ".jpeg", ".png"]:
+        elif extension in [".jpg", ".jpeg", ".png", ".gif"]:
             doelbestand = os.path.join(f"archief/afbeeldingen/", file_name)
-            shutil.copy(file, doelbestand)
-        elif extension in [".mp4", ".avi", ".mkv"]:
-            doelbestand = os.path.join(f"archief/videos/", file_name)
             shutil.copy(file, doelbestand)
         else:
             doelbestand = os.path.join(f"archief/overig/", file_name)
