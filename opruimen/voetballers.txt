@@ -1,0 +1,69 @@
+Stephan Andersen,Go Ahead Eagles,Keeper,Denemarken
+Kasper Schmeichel,Leicester City,Keeper,Denemarken
+Jesper Hansen,&#201;vian,Keeper,Denemarken
+Lars Jacobsen,Kopenhagen,Verdediger,Denemarken
+Daniel Agger,Liverpool,Verdediger,Denemarken
+Simon Kj&#230;r,Lille,Verdediger,Denemarken
+Simon Poulsen,AZ,Verdediger,Denemarken
+Andreas Bjelland,Twente,Verdediger,Denemarken
+Peter Ankersen,Esbjerg,Verdediger,Denemarken
+Kian Hansen,Esbjerg,Verdediger,Denemarken
+Jakob Ahlmann Nielsen,AaB,Verdediger,Denemarken
+William Kvist,Fulham,Middenvelder,Denemarken
+Christian Eriksen,Tottenham Hotspur,Middenvelder,Denemarken
+Michael Krohn-Dehli,Celta de Vigo,Middenvelder,Denemarken
+Thomas Kahlenberg,Br&#248;ndby,Middenvelder,Denemarken
+Jakob Poulsen,Midtjylland,Middenvelder,Denemarken
+Lasse Sch&#246;ne,Ajax,Middenvelder,Denemarken
+Kasper Kusk,AaB,Middenvelder,Denemarken
+Rasmus W&#252;rtz,AaB,Middenvelder,Denemarken
+Jakob Ankersen,Esbjerg,Middenvelder,Denemarken
+Pierre H&#248;jbjerg,Bayern M&#252;nchen,Middenvelder,Denemarken
+Morten Duncan Rasmussen,Midtjylland,Aanvaller,Denemarken
+Martin Braithwaite,Toulouse,Aanvaller,Denemarken
+Jasper Cillessen,Ajax,Keeper,Nederland
+Michel Vorm,Swansea City,Keeper,Nederland
+Tim Krul,Newcastle United,Keeper,Nederland
+Ron Vlaar,Aston Villa,Verdediger,Nederland
+Stefan de Vrij,Feyenoord,Verdediger,Nederland
+Bruno Martins Indi,Feyenoord,Verdediger,Nederland
+Daryl Janmaat,Feyenoord,Verdediger,Nederland
+Daley Blind,Ajax,Verdediger,Nederland
+Paul Verhaegh,Augsburg,Verdediger,Nederland
+Jo&#235;l Veltman,Ajax,Verdediger,Nederland
+Terence Kongolo,Feyenoord,Verdediger,Nederland
+Jonathan de Guzm&#225;n,Swansea City,Middenvelder,Nederland
+Nigel de Jong,Milan,Middenvelder,Nederland
+Wesley Sneijder,Galatasaray,Middenvelder,Nederland
+Jordy Clasie,Feyenoord,Middenvelder,Nederland
+Leroy Fer,Norwich City,Middenvelder,Nederland
+Georginio Wijnaldum,PSV,Middenvelder,Nederland
+Robin van Persie,Manchester United,Aanvaller,Nederland
+Arjen Robben,Bayern M&#252;nchen,Aanvaller,Nederland
+Dirk Kuijt,Fenerbah&#231;e,Aanvaller,Nederland
+Jeremain Lens,Dinamo Kiev,Aanvaller,Nederland
+Klaas-Jan Huntelaar,Schalke 04,Aanvaller,Nederland
+Memphis Depay,PSV,Aanvaller,Nederland
+Iker Casillas,Real Madrid,Keeper,Spanje
+David de Gea,Manchester United,Keeper,Spanje
+Pepe Reina,Napoli,Keeper,Spanje
+Ra&#250;l Albiol,Napoli,Verdediger,Spanje
+Gerard Piqu&#233;,Barcelona,Verdediger,Spanje
+Javi Mart&#237;nez,Bayern M&#252;nchen,Verdediger,Spanje
+Juanfran,Atl&#233;tico Madrid,Verdediger,Spanje
+Sergio Ramos,Real Madrid,Verdediger,Spanje
+Jordi Alba,Barcelona,Verdediger,Spanje
+C&#233;sar Azpilicueta,Chelsea,Verdediger,Spanje
+Andr&#233;s Iniesta,Barcelona,Middenvelder,Spanje
+Xavi,Barcelona,Middenvelder,Spanje
+Cesc F&#224;bregas,Barcelona,Middenvelder,Spanje
+Juan Mata,Manchester United,Middenvelder,Spanje
+Xabi Alonso,Real Madrid,Middenvelder,Spanje
+Sergio Busquets,Barcelona,Middenvelder,Spanje
+Koke,Atl&#233;tico Madrid,Middenvelder,Spanje
+Santi Cazorla,Arsenal,Middenvelder,Spanje
+David Silva,Manchester City,Middenvelder,Spanje
+David Villa,New York City,Aanvaller,Spanje
+Fernando Torres,Chelsea,Aanvaller,Spanje
+Pedro,Barcelona,Aanvaller,Spanje
+Diego Costa,Atl&#233;tico Madrid,Aanvaller,Spanje
