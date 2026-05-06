@@ -12,14 +12,14 @@ def get_files_in_folder(folder_path):
     files = []
     for file in os.listdir(folder_path):
         if os.path.isfile(os.path.join(folder_path, file)):
-            files.append(file)
+            files.append(os.path.join(folder_path, file))
     return files
 
-def archive_files(archive, files):
+def archive_files(files):
     for file in files:
         extension = os.path.splitext(file)[1].lower()
         file_name = os.path.basename(file)
-        file = os.path.join(archive, file)
+        # file = os.path.join(archive, file)
         print(f"Bestand: {file_name}, Extensie: {extension}")
         if extension in [".docx", ".pdf", ".txt"]:
             doelbestand = os.path.join(f"archief/documenten/", file_name)
